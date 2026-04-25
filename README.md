@@ -22,9 +22,17 @@
 
 ---
 
-## 💻 Languages and Tools:
+## 📈 About Me:
 
-<br/>
+- 🔭 I'm currently working on **Full Stack Web Development & Android Applications**
+- 🌱 I'm constantly learning **new technologies and frameworks**
+- 💡 Passionate about **solving real-world problems through code**
+- 🎯 Goal: To become a **skilled Full Stack Developer**
+- 📚 Always exploring **new tech trends and best practices**
+
+---
+
+## 💻 Languages and Tools:
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -33,15 +41,11 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-<br/>
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-<br/>
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -52,27 +56,11 @@
 
 ## 📊 GitHub Statistics:
 
-<br/>
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sayali-Yadav16&theme=dark)](https://github.com/Sayali-Yadav16)
-
-<br/>
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayali-Yadav16&layout=compact&theme=dark)](https://github.com/Sayali-Yadav16)
 
-<br/>
-
 ![Sayali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sayali-Yadav16&theme=dark&show_icons=true)
-
----
-
-## 📈 About Me:
-
-- 🔭 I'm currently working on **Full Stack Web Development & Android Applications**
-- 🌱 I'm constantly learning **new technologies and frameworks**
-- 💡 Passionate about **solving real-world problems through code**
-- 🎯 Goal: To become a **skilled Full Stack Developer**
-- 📚 Always exploring **new tech trends and best practices**
 
 ---
 
